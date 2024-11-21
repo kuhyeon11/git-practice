@@ -4,10 +4,10 @@
 # just for practice
 
 #variables
-repository_name = "git_practice" # your new git repository's name
-my_name = "kuhyeon11" # your git's name
-my_email = "kuhyeon11@gmail.com" # your email's address
-repository_url = "https://github.com/kuhyeon11/git-practice.git"
+repository_name="git_practice" # your new git repository's name
+my_name="kuhyeon11" # your git's name
+my_email="kuhyeon11@gmail.com" # your email's address
+repository_url="https://github.com/kuhyeon11/git-practice.git"
 # commands
 mkdir $repository_name
 cd $repository_name
